@@ -61,9 +61,9 @@ footer:
   since: 2015
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
-bio: '全栈开发者，热爱前端、运维和架构设计'
+author: '西岸'
+nickname: '西岸'
+bio: '历史，文学，哲学，思考'
 avatar: '/assets/img/profile.webp'
 
 # Search
@@ -139,7 +139,7 @@ supports:
   webify: 
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+beian: '宇宙ICP备xxxxxxxx号'
 # moe_beian: '20240463'
 
 # Badges
