@@ -2,7 +2,7 @@
 version: 1.5.1
 
 # Site settings 配置站点
-title: '西岸'
+title: '道天如是觀'
 description: '个人博客站点，主要用于记录一些比较有意思的观察。'
 keyword: '西岸，博客，生活志，人工智能, 学习'
 url: 'https://h2o-ac.pages.dev' # your host
