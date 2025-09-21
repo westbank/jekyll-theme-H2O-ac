@@ -1,0 +1,26 @@
+---
+id: 153
+title: 旅人
+date: '2008-01-12T00:43:17+00:00'
+author: Westbank
+layout: post
+guid: 'http://scottie.cn/2008/01/12/%e6%97%85%e4%ba%ba/'
+permalink: /2008/01/12/spirit-travellers-are-on-the-road/
+views:
+    - '6778'
+bot_views:
+    - '14727'
+latest_home_img:
+    - road.jpg
+duoshuo_thread_id:
+    - '1246078726781796502'
+post_views_count:
+    - '699'
+categories:
+    - 诗意诗艺
+tags:
+    - 写诗
+    - 旅人
+---
+
+还是要走，不过是灿烂夜空中一次错误而华美的交错 当时间的天枰倾斜，光阴定格在玉门关外的残阳，朔风卷走飞雪沉醉枝头的梦想 风霜似刀铭刻额头的纹路，停步只能仰望苍穹 指南针趋向的是简单的两级 在苍茫大地中踽踽独行的旅人并不需要刻意的方向 希望，无所谓有，无所谓无 即令在冻土深层中悄悄地萌发 踏雪过后的印迹在下一场暴雪中藏匿 ![](http://pic.yupoo.com/dsufo/858784eb1151/4x3gr1iq.jpg)黎明走出驿站，路牌孤零零地指向未知的远方 西边的火烧云攒劲地酝酿着黄昏，来证明白天是一种苍白的病患 下一个路口，迎接你的仍然是梅雨季那犹豫的脸 天地交界的尽头，风景在万籁中燃烧，心在流浪中彷徨 明白了，人生原来是一场漂泊 剪影成春夏秋冬的多个瞬间 飞羽坠落的一次匆匆相会 明河，川上没 芳草，露中衰 总想留下什么？ 谁料在畏惧生死之前，畏惧白头 [<span aria-label="Continue reading 旅人">(more…)</span>](http://farbank.net/2008/01/12/spirit-travellers-are-on-the-road/#more-153)

@@ -1,0 +1,38 @@
+---
+id: 117
+title:
+    - 本拉登变身耶稣？
+    - 本拉登变身耶稣？
+date: '2007-09-17T15:56:30+00:00'
+author: admin
+layout: post
+guid: 'http://scottie.cn/?p=178'
+permalink: /2007/09/17/laden-and-jesus/
+keywords:
+    - '本拉登,耶稣,恶搞'
+    - '本拉登,耶稣,恶搞'
+description:
+    - 本拉登变身耶稣？
+    - 本拉登变身耶稣？
+bot_views:
+    - '2'
+    - '2'
+views:
+    - '2'
+    - '2'
+latest_home_img:
+    - ben.jpg
+    - ben.jpg
+duoshuo_thread_id:
+    - '1246078726781796467'
+    - '1246078726781796467'
+post_views_count:
+    - '549'
+    - '549'
+categories:
+    - 一地鸡毛
+tags:
+    - 本拉登
+---
+
+我对恶搞没多少印象。当初《一个馒头引发的血案》引得众人四处奔走相告，我随了一回大流，耐着性子看了老半天，愣是一点想笑的感觉都没有，真不知道什么让大家的牙齿脱臼？陈凯歌的《无极》当然是烂片，《血案》改编得其实也很烂。后来恶搞渐渐形成气候，如有恶心得让人好似吃了一支苍蝇的芙蓉姐姐，徐静蕾的裸体以及长相如龅牙老鼠的宋祖德挥刀自宫的油画(安迪创作，画名遗忘)，我这才发现恶搞原来也是时尚娱乐元素之一。 不过国人的恶搞太小儿科了，鸡毛蒜皮，小打小闹，你有没有想过把本拉登和耶稣弄在一块儿？就有敢吃螃蟹的人。最近澳大利亚一个宗教艺术展览\[<span style="color: #8080c0;">Blake Prize for Religous Art\]</span>出现一副立体头像，本拉登和耶稣一体两面，可谓惊世骇俗。在悉尼国立艺术学院的这次展出中，艺术家Priscilla Brack 设计的立体头像，以双重影像\[<span style="color: #8080c0;">double vision</span>\]效果重叠，一个角度看是本拉登，另外一个角度看却更像是耶稣基督。Brack表示，正义与邪恶形影不离，这是对我作品的基本解读。另外一位艺术家 Luke Sullivan 也不是什么善男信女，他干脆让圣母玛利亚戴上了阿富汗式的穆斯林头巾。 [<span aria-label="Continue reading 本拉登变身耶稣？">(more…)</span>](http://farbank.net/2007/09/17/laden-and-jesus/#more-117)
