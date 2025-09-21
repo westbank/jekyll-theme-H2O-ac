@@ -58,7 +58,7 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2006
 
 # Author 配置博主信息
 author: '西岸'
@@ -140,7 +140,7 @@ supports:
 
 # Beian 备案号
 beian: '宇宙ICP备xxxxxxxx号'
-# moe_beian: '20240463'
+# moe_beian: '20060463'
 
 # Badges
 badges:
@@ -154,7 +154,7 @@ badges:
 
 # Alive time
 alivetime: true
-alivestart: "12/23/2021"
+alivestart: "12/23/2006"
 
 # CC License
 cclicense: true
