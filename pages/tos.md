@@ -7,7 +7,7 @@ permalink: /tos.html
 
 # 本站使用条款
 
-道天如是觀◎西岸（[https://farbank.net](https://farbank.net)），以下简称“本站”。
+&emsp;&emsp;道天如是觀◎西岸（[https://farbank.net](https://farbank.net)），以下简称“本站”。
 
 ## 隐私政策
 
