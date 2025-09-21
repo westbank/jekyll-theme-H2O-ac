@@ -28,14 +28,188 @@ tags:
     - 奥巴马
 ---
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">最近好像网络情况有了改善，我忙不迭地开始浏览一些国际网站，搜索感兴趣的新闻。对时事新闻关注的朋友一定注意到了美国2008总统选举已经在拉开大幕。民主党蛰伏多年，摩拳擦掌，党内有两位呼声很高的总统候选人，一位是美国前总统克 夫人</span><span style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN; mso-ascii-font-family: 宋体;">-</span> <span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">纽约州参议员希拉里，另外一位是新鲜出炉的，来自伊利诺伊州年轻政治明星</span><span style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN; mso-ascii-font-family: 宋体;">-</span> <span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">巴拉克·侯赛因·奥巴马，也是国会现在唯一的一位非洲裔黑人参议员。著名的《时代》周刊在2006年10月把他作为封面，详细叙述了他之所以可能成为下一任总统的原因，其政治前途似乎一片光明。无论这二位哪一个能成为美国下一界总统都将创造美国新的历史。 </span>
+最近好像网络情况有了改善，我忙不迭地开始浏览一些国际网站，搜索感兴趣的新闻。对时事新闻关注的朋友一定注意到了美国2008总统选举已经在拉开大幕。民主党蛰伏多年，摩拳擦掌，党内有两位呼声很高的总统候选人，一位是美国前总统克 夫人- 纽约州参议员希拉里，另外一位是新鲜出炉的，来自伊利诺伊州年轻政治明星- 巴拉克·侯赛因·奥巴马，也是国会现在唯一的一位非洲裔黑人参议员。著名的《时代》周刊在2006年10月把他作为封面，详细叙述了他之所以可能成为下一任总统的原因，其政治前途似乎一片光明。无论这二位哪一个能成为美国下一界总统都将创造美国新的历史。
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">不过奥巴马要击败希拉里成为党内唯一候选人的希望看起来并不明朗。我第一次看到他全名的时候就有一种感觉：他是穆斯林的后裔？果不其然，奥巴马有穆斯林的背景，而这也是他一直在隐瞒、抵赖的。</span>
+不过奥巴马要击败希拉里成为党内唯一候选人的希望看起来并不明朗。我第一次看到他全名的时候就有一种感觉：他是穆斯林的后裔？果不其然，奥巴马有穆斯林的背景，而这也是他一直在隐瞒、抵赖的。
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">美国国内很多关于总统选卷的民意测验都预示着他将失去至少一半美国民众的选票。或许他不敢公开承认自己的穆斯林背景</span><span style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN; mso-ascii-font-family: 宋体;">-</span> <span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;">他曾经在某个时段内是一个穆斯林信徒。而他现在宣称自己是一个基督教信徒。</span>
+美国国内很多关于总统选卷的民意测验都预示着他将失去至少一半美国民众的选票。或许他不敢公开承认自己的穆斯林背景- 他曾经在某个时段内是一个穆斯林信徒。而他现在宣称自己是一个基督教信徒。
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;"></span>
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;"></span>
 
-<span style="font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 宋体; mso-ansi-language: ZH-CN;"> [<span aria-label="Continue reading 民调显示:奥巴马2008没戏">(more…)</span>](http://farbank.net/2007/03/11/obama-is-doomed-to-failure/#more-16)</span>
+
+
+
+
+诸如盖洛普、皮尤、洛杉机时报、福克斯新闻、布隆博格新闻等媒体或机构经常举办一些民意调查，旨在关注这些候选人的政治前景，看有什么事件会阻止民众将选票投向他们，哪怕该候选人在各方面都堪称理想人选。
+
+
+
+
+美国选民的眼睛是雪亮的。他们对世界各地以及国内的穆斯林信徒以宗教的名义进行的"活动"非常敏感，过半数的选民是绝对不会推选一位穆斯林做他们的总统。
+
+
+
+
+
+
+
+2006年6月份洛杉机时报和布龙博格在全国范围做的民意调查显示：
+
+不会推选一位_________ 总统候选人：
+
+
+
+
+摩门教徒 （37％的人投票）
+
+
+
+
+犹太教徒 （15％的人投票）
+
+
+
+
+福音派新教徒 （21％的人投票）
+
+
+
+
+穆斯林教徒 （54％的人投票）
+
+
+
+
+天主教徒 （10％的人投票）
+
+
+
+
+2006年12月份福克斯新闻的民意调查显示：
+
+
+
+
+opinion poll results
+
+
+
+
+
+如果候选人是一位_________ ，基本不会推选此人做为总统。
+
+
+
+
+新教徒 （6％的人投票）
+
+
+
+
+罗马天主教徒 （10％的人投票）
+
+
+
+
+犹太人 （10％的人投票）
+
+
+
+
+基督教联盟成员 （24％的人投票）
+
+
+
+
+摩门教徒 （32％的人投票）
+
+
+
+
+穆斯林 （45％的人投票）
+
+
+
+
+无神论者 （50％的人投票）
+
+
+
+
+科学论派者 （53％的人投票）
+
+
+
+
+2004年，皮尤网络对宗教与公共生活所作的调查显示有38％的美国人不会把选票投向一位穆斯林的总统候选人。
+
+Pew Forum
+
+
+而1999年的盖洛普调查数据显示：
+
+
+
+
+如果候选人是一位_________，有（多少美国人）不会推选他。
+
+
+
+
+天主教徒：4％（1937：30％）
+
+
+
+
+黑人： 5％ （1958：63％； 1987：21％）
+
+
+
+
+犹太人：6％ （1937：47％）
+
+
+
+
+浸礼会教徒：6％
+
+
+
+
+女性： 8％
+
+
+
+
+摩门教徒： 17％
+
+
+
+
+穆斯林：38％
+
+
+
+
+同性恋：37％ （1978：74％）
+
+
+
+
+无神论者：48％
+
+
+
+
+毫无疑问，数据既是证明，美国不会接受一位穆斯林总统；奥巴马至少不愿在这个关键时刻让民众知道自己的穆斯林背景。然而，民意是其无法忽视的。
+
+
+
+
+
+
+
+
+
+
+Del.icio.us : 2008, America, media, presidential election
