@@ -57,9 +57,9 @@ footer:
   since: 2015
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
-bio: '全栈开发者，热爱前端、运维和架构设计'
+author: '西岸'
+nickname: 'Westbank'
+bio: '飞雨'
 avatar: '/assets/img/profile.webp'
 
 # Search
@@ -144,7 +144,7 @@ alivetime: true
 alivestart: "12/23/2021"
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+beian: '宇宙备xxxxxxxx号'
 # moe_beian: 'xxxxxxxx'
 
 # CC License
