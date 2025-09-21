@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: H2O-ac Theme For Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 道天如是觀◎西岸
+description: 面对大海淡蓝色的城堡，光和无声的星座
 permalink: /en/index.html
 langs: ["zh-Hans", "en"]
 lang: "en"
@@ -11,7 +11,7 @@ lang: "en"
 
 ## About me
 
-&emsp;&emsp;I am a PhD student from xxx University.....
+&emsp;&emsp;I am a PhD student from Dragon University.....
 
 ## Publications
 
@@ -20,4 +20,4 @@ lang: "en"
 
 ## Contact
 
-Email: zhonger[at]live.cn (Please replace [at] with @.)
+Email: im[at]farbank.net (Please replace [at] with @.)
