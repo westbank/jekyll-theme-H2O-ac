@@ -24,4 +24,22 @@ format: audio
 
 基本配置如下：
 
- [<span aria-label="Continue reading 新电脑下手了">(more…)</span>](http://farbank.net/2020/10/14/i-have-bought-a-new-computer/#more-2737)
+CPU: AMD 3400G
+
+主板：技嘉B450M S2H
+
+散热器：AMD 幽灵散热器
+
+显卡：VEGA 11(核显)
+
+海盗船DDR4  8G
+
+硬盘：技嘉240G SSD
+
+电源：骨伽XTC 400W （认证电源）
+
+机箱：金河田预见M8
+
+我很可能会重装系统，另外要再加内存条1根，再挂一个.M2 固态以及机械硬盘1T. 
+
+电脑其实是耐用品，普通家用办公轻应用，可能世界末日那天它也不会坏。整台新电脑，让网络世界更流畅，让自己快乐一下。
