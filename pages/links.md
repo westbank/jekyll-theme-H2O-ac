@@ -1,7 +1,7 @@
 ---
 layout: links
-home-title: H2O-ac theme for Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 道天如是觀◎西岸
+description: 面对大海淡蓝色的城堡，光和无声的星座
 comments:
   waline: true
 permalink: /links.html
