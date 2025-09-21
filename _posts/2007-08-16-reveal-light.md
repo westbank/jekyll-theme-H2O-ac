@@ -1,0 +1,31 @@
+---
+id: 106
+title: 'Reveal Light'
+date: '2007-08-16T02:29:54+00:00'
+author: admin
+layout: post
+guid: 'http://scottie.cn/?p=166'
+permalink: /2007/08/16/reveal-light/
+bot_views:
+    - '2'
+    - '2'
+views:
+    - '2'
+    - '2'
+latest_home_img:
+    - light.jpg
+    - light.jpg
+duoshuo_thread_id:
+    - '1246078726781796456'
+    - '1246078726781796456'
+post_views_count:
+    - '447'
+    - '447'
+categories:
+    - 一地鸡毛
+tags:
+    - photos
+    - 'reveal light'
+---
+
+山水氤氲的柔晨，推开朦胧的窗，迎面而至的是远方欲滴的翠绿，近处婆娑的树影，泥土的芬芳也赶集似的纷至沓来，天地间疏疏朗朗形成一道道风景，你欣欣然张开了眼，用力的吸吮着这第一缕晨光。这连着心与万物的窗户啊，他们作诗咏歌：池塘生春草，园柳变鸣禽。\[谢灵运《登池上楼》\]；要看银山拍天浪，开窗放入大江来。\[曾公亮《宿甘露寺僧舍》\]；窗含西岭千秋雪，门泊东吴万里船\[杜甫《绝句》\]...... 可如果一间屋子没有窗户呢？恰逢黑夜，房门紧锁，好似鲁迅先生描写过的景象，"假如一间铁屋子，是绝无窗户而万难破毁的，里面有许多熟睡的人们，不久都要闷死了......" 以上其实是我的乱弹。在设计者[Adam Frank](http://www.adamfrank.com/lumen/lumen_all.htm) 那里看到这神奇的玩意儿，给windowless rooms 添加窗户！室内普通灯光的运用都会带来不少弥散的阴影，而Adam Frank 设计的奇妙光影给房间带来扩展的维度，"家徒不再四壁"。Adam Frank 将此力作命名为 "Reveal Light" , 整合室内光线，辅以恰如其分的树影表现力，令人不禁联想到午后懒洋洋的阳光洒满你的房间，窗外的树枝儿随风摇曳，姿态婀娜。绝妙的构思，设计理念首先是创新，其次是创新，最后还是创新！ [<span aria-label="Continue reading Reveal Light">(more…)</span>](http://farbank.net/2007/08/16/reveal-light/#more-106)
