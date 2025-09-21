@@ -1,0 +1,26 @@
+---
+id: 2488
+title: 五月的故事
+date: '2018-05-01T14:04:28+00:00'
+author: Westbank
+layout: post
+guid: 'http://farbank.net/?p=2488'
+permalink: /2018/05/01/the-story-of-may/
+latest_home_img:
+    - may.jpg
+thumb_home_img:
+    - j01.jpg
+views:
+    - '433'
+bot_views:
+    - '1248'
+post_views_count:
+    - '391'
+categories:
+    - 诗意诗艺
+tags:
+    - 写诗
+    - 故事
+---
+
+五月的短促阳光 在眼睛里患上白化病 一根根在冻土中疗伤 苍翠以亚热带风姿坠入夏天 急流攀上鱼鹰的栖息 沸腾的翅膀涌动不安的节奏 世界化身一池安静的小漩涡 可诉说是一头迷途的驯鹿 面对风暴中若隐的城堡 半窒息地在水烟中摸索 又有人打算离开沉重的城市 白昼数十亿蚂蚁啃食着时间之钟 等不及直到午夜大街才排空 雨的气息喷向彼岸 通向原野的轨道快要塌陷 火车汽笛，那匆忙的瞬息 地平线轻轻地碾压浸远风华 如果不再有琥珀光泽的声音 沉寂的森林，腐烂戴着年轮的 镜片，阅读蛀虫写下的记录 讲故事的人终将熄灭 记得曾经打开黑暗之门 来这里是为了和一个举着灯 看到自己的人相遇 [<span aria-label="Continue reading 五月的故事">(more…)</span>](http://farbank.net/2018/05/01/the-story-of-may/#more-2488)
