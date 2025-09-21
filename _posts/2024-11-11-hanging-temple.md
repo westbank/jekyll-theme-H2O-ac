@@ -3,7 +3,7 @@ id: 3501
 title: 悬空寺
 date: '2024-11-11T03:42:15+00:00'
 author: admin
-layout: post       # 使用带 Sidebar 的模板
+layout: post   # 确认 _layouts/post.html 文件里有 include sidebar.html
 guid: 'http://farbank.net/?p=3501'
 permalink: /2024/11/11/hanging-temple/
 views:
