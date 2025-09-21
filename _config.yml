@@ -271,10 +271,7 @@ premonition:
           </div>
           <div class="content">
             {{content}}
-          
-     # 截断符设置
-excerpt_separator: "<!--more-->"
-     
+             
           
           </div>
           {% if title %}<div class="ref"> ------ {{title}} </div>{% endif %}
