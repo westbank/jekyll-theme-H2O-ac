@@ -5,7 +5,7 @@ version: 1.5.1
 title: '西岸'
 description: '个人博客站点'
 keyword: '西岸，博客，nodejs，人工智能, 机器学习'
-url: 'https://h2o-ac.pages.dev' # your host
+url: 'https://farbank.net' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
