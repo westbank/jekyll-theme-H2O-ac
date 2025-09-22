@@ -2,7 +2,7 @@
 id: 104
 title:
     - 我在写博中犯的一些错误
-    - 我在写博中犯的一些错误
+ 
 date: '2007-08-07T02:11:31+00:00'
 author: admin
 layout: post
