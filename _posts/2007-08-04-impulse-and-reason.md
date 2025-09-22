@@ -2,7 +2,7 @@
 id: 103
 title:
     - 冲动与理智
-    - 冲动与理智
+ 
 date: '2007-08-04T17:53:52+00:00'
 author: admin
 layout: post
