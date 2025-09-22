@@ -23,6 +23,16 @@ tags:
     - kindle
 ---
 
-我现在基本是一个标准的通勤者(commuter)— 每天在路上的时间接近三个小时。生活的水准没有赶英超美，工作的习惯倒是在和国际接轨。如何打发这段无聊且宝贵的时间，颇费思量。阅读书籍似乎是一个很好的选择。近期[<span style="color: #000000;">**Amazon推出的Kindle电子书阅读器**</span>](http://www.amazon.com/gp/product/B000FI73MA/ref=amb_link_5873612_2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=gateway-center-column&pf_rd_r=0CYTJV48NBZY0Y6XX4ZA&pf_rd_t=101&pf_rd_p=329252801&pf_rd_i=507846)很容易地抓住我的眼球。 很多人不太喜欢阅读电子书的最大原因是电子书缺乏纸本书籍那种质感，简言之，就是不真实。Kindle采用先进的模拟纸张的技术(electronical ink)试图还原纯真的阅读乐趣。而且简约轻巧的设计带来更多时尚的感觉。两百本书籍的容量完全是一个小型的移动书库。（更多技术细节请[**<span style="color: #000000;">点击这里</span>**](http://www.amazon.com/gp/product/B000FI73MA/ref=amb_link_5873612_2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=gateway-center-column&pf_rd_r=0CYTJV48NBZY0Y6XX4ZA&pf_rd_t=101&pf_rd_p=329252801&pf_rd_i=507846)。）
+ 我现在基本是一个标准的通勤者(commuter)— 每天在路上的时间接近三个小时。生活的水准没有赶英超美，工作的习惯倒是在和国际接轨。如何打发这段无聊且宝贵的时间，颇费思量。阅读书籍似乎是一个很好的选择。近期Amazon推出的Kindle电子书阅读器很容易地抓住我的眼球。
 
-Kindle更大的优势在于无须联接PC，可无线上网，下载电子书籍十分便利。背靠被誉为“地球表面上最大书店”的[**<span style="color: #000000;">Amazon</span>**](http://www.amazon.com/)，整合多种资源、功能，潜力十分巨大。Kindle还可以订阅世界知名报刊杂志的电子版，如《纽约时报》、《华盛顿邮报》、《时代》等等，其他如订阅博客之类更是小菜一碟。首批Kindle上架就被抢购一空，其魅力可见一斑。Amazon无不自豪地在官网上宣称"Due to heavy customer demand, Kindle is temporarily sold out." [<span aria-label="Continue reading All Kindle, All the Time">(more…)</span>](http://farbank.net/2007/12/03/all-kindle-all-the-time/#more-140)
+很多人不太喜欢阅读电子书的最大原因是电子书缺乏纸本书籍那种质感，简言之，就是不真实。Kindle采用先进的模拟纸张的技术(electronical ink)试图还原纯真的阅读乐趣。而且简约轻巧的设计带来更多时尚的感觉。两百本书籍的容量完全是一个小型的移动书库。（更多技术细节请点击这里。）
+
+Kindle更大的优势在于无须联接PC，可无线上网，下载电子书籍十分便利。背靠被誉为“地球表面上最大书店”的Amazon，整合多种资源、功能，潜力十分巨大。Kindle还可以订阅世界知名报刊杂志的电子版，如《纽约时报》、《华盛顿邮报》、《时代》等等，其他如订阅博客之类更是小菜一碟。首批Kindle上架就被抢购一空，其魅力可见一斑。Amazon无不自豪地在官网上宣称"Due to heavy customer demand, Kindle is temporarily sold out."
+
+电子书和纸质书的争论由来已久。即使是在网络媒体兴盛的今天，传统纸质媒介的地位也无从撼动，因为大众的阅读习惯和思维定式是很难被改变的，进一步讲，这个传统被“破坏”的话，正如同中国国有企业改革很多人下岗一样，带来的冲击是颠覆且致命的。第一代的电子书阅读厂商大多无疾而终，人们甚至发出“电子书已死”的哀嚎。不过，风云莫测的科技发展以及生活方式的逐步改变，谁又敢拍胸脯说，电子书一定没有将来？亚马逊的Kindle和索尼的Reader等目前就在做这种尝试。台湾知名博客“老猫学出版”在其日志《电子书生死之谜》无不幽默地提到了巴斯卡关于上帝存在的论证：
+巴斯卡說相信有上帝而其實沒有上帝，對我們並無損失；反之不信上帝而萬一上帝真有其人，那我們可就虧大了。不信上帝你就進不了天堂。
+
+哦，喜欢归喜欢，但是Kindle高达400美元的售价，而且无线网络，下载费用等等，和一个来自于第三世界的书迷来说实在有些遥远。此刻，我只能说，吃不到猪肉，看到过猪跑。不过，看来遥不可及的数码相机、液晶电视、ipod, etc. 不都一一飞入寻常百姓家吗？
+
+ 
+Technorati 标签: Amazon , Kindle
