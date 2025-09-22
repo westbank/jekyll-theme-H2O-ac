@@ -2,7 +2,7 @@
 id: 122
 title:
     - 很牛的博客
-    - 很牛的博客
+  
 date: '2007-10-07T12:55:26+00:00'
 author: admin
 layout: post
