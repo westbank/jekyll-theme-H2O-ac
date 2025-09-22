@@ -2,7 +2,6 @@
 id: 99
 title:
     - 心属阿根廷
-    - 心属阿根廷
 date: '2007-07-16T15:49:00+00:00'
 author: admin
 layout: post
