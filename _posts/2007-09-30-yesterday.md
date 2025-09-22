@@ -2,7 +2,7 @@
 id: 121
 title:
     - 昨天
-    - 昨天
+  
 date: '2007-09-30T12:35:34+00:00'
 author: admin
 layout: post
