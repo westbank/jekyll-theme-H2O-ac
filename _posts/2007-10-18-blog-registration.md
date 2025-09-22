@@ -2,7 +2,7 @@
 id: 125
 title:
     - 终于备案了
-    - 终于备案了
+ 
 date: '2007-10-18T18:04:00+00:00'
 author: admin
 layout: post
