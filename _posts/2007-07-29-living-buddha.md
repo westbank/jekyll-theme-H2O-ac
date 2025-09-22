@@ -2,7 +2,7 @@
 id: 101
 title:
     - 从活佛的封号说起
-    - 从活佛的封号说起
+ 
 date: '2007-07-29T16:46:03+00:00'
 author: admin
 layout: post
