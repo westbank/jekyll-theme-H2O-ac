@@ -2,7 +2,7 @@
 id: 114
 title:
     - 就这样挣扎
-    - 就这样挣扎
+ 
 date: '2007-09-07T01:42:55+00:00'
 author: admin
 layout: post
