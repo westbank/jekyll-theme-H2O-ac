@@ -2,7 +2,7 @@
 id: 111
 title:
     - 海归该拿多少钱？
-    - 海归该拿多少钱？
+   
 date: '2007-08-30T02:12:16+00:00'
 author: admin
 layout: post
