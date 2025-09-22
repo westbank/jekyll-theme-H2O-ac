@@ -2,7 +2,7 @@
 id: 109
 title:
     - 危险的同学会
-    - 危险的同学会
+   
 date: '2007-08-26T18:56:01+00:00'
 author: admin
 layout: post
