@@ -2,7 +2,7 @@
 id: 116
 title:
     - 我喜欢的几个WordPress插件
-    - 我喜欢的几个WordPress插件
+ 
 date: '2007-09-16T13:09:18+00:00'
 author: admin
 layout: post
