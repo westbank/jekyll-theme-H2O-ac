@@ -9,7 +9,7 @@ guid: 'http://scottie.cn/?p=154'
 permalink: /2007/07/16/my-heart-belong-to-argentina/
 description:
     - 一位铁杆阿根廷足球迷的心声
-    - 一位铁杆阿根廷足球迷的心声
+    
 keywords:
     - 'football,Argentina'
     - 'football,Argentina'
