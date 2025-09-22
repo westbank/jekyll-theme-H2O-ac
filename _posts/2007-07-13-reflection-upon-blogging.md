@@ -2,7 +2,6 @@
 id: 98
 title:
     - 总会有那道坎
-    - 总会有那道坎
 date: '2007-07-13T14:27:28+00:00'
 author: admin
 layout: post
