@@ -2,7 +2,7 @@
 id: 100
 title:
     - 习惯性“垮死”
-    - 习惯性“垮死”
+
 date: '2007-07-18T22:56:37+00:00'
 author: admin
 layout: post
