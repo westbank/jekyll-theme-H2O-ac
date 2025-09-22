@@ -2,7 +2,7 @@
 id: 117
 title:
     - 本拉登变身耶稣？
-    - 本拉登变身耶稣？
+   
 date: '2007-09-17T15:56:30+00:00'
 author: admin
 layout: post
