@@ -2,7 +2,7 @@
 id: 120
 title:
     - 中秋还剩下什么？
-    - 中秋还剩下什么？
+  
 date: '2007-09-27T17:22:55+00:00'
 author: admin
 layout: post
