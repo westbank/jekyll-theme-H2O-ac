@@ -2,7 +2,7 @@
 layout: post
 title: '再见，亦是启航'
 date: 2025-09-25
-author: Westbank
+author: Farbank
 cover: 'https://images.unsplash.com/photo-1653629154302-8687b83825e2'
 cover_author: 'rogov'
 cover_author_link: 'https://unsplash.com/@rogovca'
